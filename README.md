@@ -18,15 +18,21 @@ This project uses the `facial_emotion_recognition` library with OpenCV to detect
 
 ⚙️ Installation & Usage
 
-1. Clone the repository:  
+1. Clone the repository:
+   ```bash 
    git clone https://github.com/yourusername/facial-emotion-recognition.git  
-   cd facial-emotion-recognition  
+   cd facial-emotion-recognition
+   ```
 
-2. Install required packages:  
+2. Install required packages:
+   ``bash
    pip install facial_emotion_recognition opencv-python  
-
+   ```
+   
 3. Run the script:  
-   python app.py  
+   ```bash
+   python app.py
+   ```
 
 🛠️ How It Works
 
@@ -37,7 +43,8 @@ This project uses the `facial_emotion_recognition` library with OpenCV to detect
 - Continues until you press the `Esc` key  
 
 📂 Project Structure
-
-facial-emotion-recognition  
+```bash
+📂facial-emotion-recognition  
 ├── app.py         # Main Python script  
-└── README.md      # Project documentation  
+└── README.md      # Project documentation
+``` 
