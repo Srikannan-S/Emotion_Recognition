@@ -25,7 +25,7 @@ This project uses the `facial_emotion_recognition` library with OpenCV to detect
    ```
 
 2. Install required packages:
-   ``bash
+   ```bash
    pip install facial_emotion_recognition opencv-python  
    ```
    
